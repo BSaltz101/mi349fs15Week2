@@ -1,0 +1,29 @@
+body {
+	font-family: helvetica;
+}
+#header {
+	height: 40px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-color: #5674b9;
+	background-color: gray;
+	border-style: solid;
+	text-align: center;
+	border-width: 5px;
+}
+img {
+	float: right;
+}
+h1 {
+	margin: 0 0 1em 0;
+	font-size: 2em;
+}
+h3{
+	color: #929292;
+	font-weight: normal;
+}
+p {
+}
+<!--need to come up with 5 Properties-->
